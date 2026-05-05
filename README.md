@@ -1,13 +1,15 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/docklet-xyz/docklet/main/public/white.png" width="200" alt="Docklet Logo" />
+  <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Docklet&fontSize=90&fontAlignY=38&desc=PostgreSQL%20%E2%80%A2%20VPS%20%E2%80%A2%20Docker%20%E2%80%A2%20AI%20DevOps%20Platform&descAlignY=65&descAlign=62" />
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=All-in-One+DevOps+Platform;PostgreSQL+First+Experience;Docker+%2B+VPS+Management;AI-Powered+Automation" alt="Typing SVG" /></a>
 
   <br />
 
-  [![Stars](https://img.shields.io/github/stars/rehanweb3/Docklet?style=for-the-badge&color=eab308&logo=github)](https://github.com/rehanweb3/Docklet)
-  [![License](https://img.shields.io/github/license/rehanweb3/Docklet?style=for-the-badge&color=3b82f6)](https://github.com/rehanweb3/Docklet/blob/main/LICENSE)
-  [![Issues](https://img.shields.io/github/issues/rehanweb3/Docklet?style=for-the-badge&color=ef4444)](https://github.com/rehanweb3/Docklet/issues)
+  [![Stars](https://img.shields.io/github/stars/docklet-xyz/docklet?style=for-the-badge&color=eab308&logo=github)](https://github.com/docklet-xyz/docklet)
+  [![License](https://img.shields.io/github/license/docklet-xyz/docklet?style=for-the-badge&color=3b82f6)](https://github.com/docklet-xyz/docklet/blob/main/LICENSE)
+  [![Issues](https://img.shields.io/github/issues/docklet-xyz/docklet?style=for-the-badge&color=ef4444)](https://github.com/docklet-xyz/docklet/issues)
   [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
   [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
