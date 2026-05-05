@@ -86,25 +86,35 @@ Docklet is an **all-in-one DevOps platform** designed to bring the cloud-native 
 Get started with Docklet on your own server in minutes:
 
 ```bash
-# Clone the repository
-git clone https://github.com/rehanweb3/Docklet.git
+# Clone & enter the repo
+git clone https://github.com/rehanweb3/Docklet.git docklet
+cd docklet
 
-# Navigate into the directory
-cd Docklet
+# Configure your environment
+cp .env.example .env && nano .env
 
-# Start the platform
-docker compose up -d
+# Launch the full stack
+docker compose -f postgres.yml up -d --build
 ```
 
 ---
 
-## 🧠 AI Setup
+## ⚙️ Environment Setup
 
-To enable the AI Agent and AI Terminal, create a `.env` file in the root directory and configure your LLM provider:
+Configure your `.env` file before launching:
 
 ```env
-# AI Agent Configuration
-NVIDIA_API_KEY=your_nvidia_nim_key_here
+# PostgreSQL database
+DB_NAME=mydb
+DB_USERNAME=myuser
+DB_PASSWORD=StrongPassword123!
+
+# Docklet admin login
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=SecureAdminPass!
+
+# JWT secret — openssl rand -hex 32
+JWT_SECRET=replace_with_a_64_char_random_string
 ```
 
 ---
