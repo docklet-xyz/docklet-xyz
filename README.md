@@ -124,12 +124,7 @@ JWT_SECRET=replace_with_a_64_char_random_string
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rehanweb3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanweb3&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehanweb3&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=docklet-xyz&repo=docklet&theme=tokyonight&hide_border=true&bg_color=0D1117&show_icons=true" alt="Docklet Repo Stats" />
 </div>
 
 <br/>
